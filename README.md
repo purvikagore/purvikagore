@@ -1,4 +1,4 @@
-<h1 align="center">Howdy👋, I'm Purvika</h1>
+<h1 align="center">Hello👋, I'm Purvika</h1>
 <h3 align="center">An NLP Enthusiast</h3>
 
 - 🌱 I’m currently learning **LLM**
